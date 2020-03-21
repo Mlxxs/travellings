@@ -24,6 +24,7 @@ function travelling(){
     url[20]="https://mmyyll.ml";
     url[21]="https://blog.imoasis.cn";
     url[22]="https://449293786.site";
+    url[23]="https://lxxs.xyz";
 
       //修正概率
     url[23]="https://github.com/volfclub/travelling";
